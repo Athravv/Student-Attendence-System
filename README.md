@@ -82,7 +82,7 @@ The GUI provides an intuitive interface with the following key panels:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Priyansh7999/Student-Attendance-System.git
+   git clone https://github.com/Rahulsingh/Student-Attendance-System.git
    
 2. Install the required libraries:
    ```bash
